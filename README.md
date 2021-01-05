@@ -1,6 +1,6 @@
 Bryan Lee's User Page
 
-My favorite programming language is Java :D
+My favorite programming language is Java :)
 
 ## Welcome to GitHub Pages
 
