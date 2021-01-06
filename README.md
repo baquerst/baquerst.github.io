@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# Hi, I'm Bryan :)
 
-You can use the [editor on GitHub](https://github.com/baquerst/baquerst.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Photo of Bryan Lee]
+(https://drive.google.com/file/d/1C2SD_6WxKxuGY1r_E2u-sOo5lrponCrl/preview)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a 4th year Cognitive Science: Design and Interaction student at UCSD with a Computer Science minor.
 
 ### Markdown
 
