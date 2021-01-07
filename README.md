@@ -1,38 +1,35 @@
 # Hi, I'm Bryan :)
 
-![Photo of Bryan Lee]
-(https://drive.google.com/file/d/1C2SD_6WxKxuGY1r_E2u-sOo5lrponCrl/preview)
+![Photo of Bryan Lee](https://i.imgur.com/MXYSvzz.jpg)
 
-I'm a 4th year Cognitive Science: Design and Interaction student at UCSD with a Computer Science minor.
+I'm a 4th year Cognitive Science: Design and Interaction student at UCSD with a Computer Science minor. [Here is a link to my online portfolio](https://www.bryanxlee.com/) that contains some of my previous work.
 
-### Markdown
+Some of my favorite programming languages are listed below from most to least liked
+1. Java
+2. C
+3. HTML
+4. Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I ranked Java as my most liked programming language because of how familiar I am with it. It was the first programming language I learned, so I feel I have the most knowledge in this language. Writing ```public static void main(String[] args)``` feels natural to me.
 
-```markdown
-Syntax highlighted code block
+Right now, I have aspirations to become a UX designer or Front-end developer but I still have a ways to go. Below is a list of the accomplishments I have achieved and hope to achieve in the future.
+- [x] Attend a university
+- [x] Complete a project related to my field
+- [ ] Gain industry experience
+- [ ] Get a full time role in industry
 
-# Header 1
-## Header 2
-### Header 3
+## Personal Life
+When I'm not studying or putting time into coding, I like to play video games and watch anime.
 
-- Bulleted
-- List
+Some games I enjoy playing, and my rank in them, include
+- League of Legends
+  - ~~Diamond~~ Gold
+- Valorant
+  - Bronze  
+- Genshin Impact
 
-1. Numbered
-2. List
+One of my favorite animes I've watched, *NANA* includes a quote from the protagonist Nana Osaki where she says
+> Don't just give up. Life is about getting knocked down over and over, but still getting up each time. If you keep getting up, you win.
+This quote helps remind me that failures are a part of every process in life, and that it shouldn't discourage me but instead keep me motivated to reach my end goal.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baquerst/baquerst.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
