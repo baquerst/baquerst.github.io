@@ -1,6 +1,6 @@
 # Hi, I'm Bryan :)
 
-![Photo of Bryan Lee](https://i.imgur.com/M6esttN.jpg)
+![Photo of Bryan Lee](/IMG_9011.jpeg)
 
 I'm a 4th year Cognitive Science: Design and Interaction student at UCSD with a Computer Science minor. [Here is a link to my online portfolio](https://www.bryanxlee.com/) that contains some of my previous work.
 
@@ -12,7 +12,7 @@ Some of my favorite programming languages are listed below from most to least li
 
 I ranked Java as my most liked programming language because of how familiar I am with it. It was the first programming language I learned, so I feel I have the most knowledge in this language. Writing a main method using ```public static void main(String[] args)``` feels natural to me because of how much time I spent coding in Java.
 
-Right now, I have aspirations to become a UX designer or Front-end developer but I still have a ways to go. Below is a list of the accomplishments I have achieved and hope to achieve in the future.
+Right now, I have aspirations to become a UX designer or Front-end developer but I still have **a lot** to learn and experience. Below is a list of the accomplishments I have achieved and hope to achieve in the future.
 - [x] Attend a university
 - [x] Complete a project related to my field
 - [ ] Gain industry experience
